@@ -1,9 +1,9 @@
 #include "unity.h"
-#include <calculator_operations.h>
+#include <tictactoe.h>
 
 /* Modify these two lines according to the project */
-#include <calculator_operations.h>
-#define PROJECT_NAME    "Calculator"
+#include <tictactoe.h>
+#define PROJECT_NAME    "Game"
 
 /* Prototypes for all the test functions */
 void test_add(void);

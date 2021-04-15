@@ -1,8 +1,8 @@
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = TicTacToe
 
 # Output directory
-BUILD = Build
+BUILD = build
 
 # All source code files
 SRC = project_main.c
@@ -12,7 +12,7 @@ TEST_SRC = src/tictactoe.c\
 test/test_tictactoe.c\
 unity/unity.c\
 
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME)
 
 # All include folders with header files
 INC	= -Iinc\
@@ -23,7 +23,7 @@ INC	= -Iinc\
 INCLUDE_LIBS = -lcunit
 
 # Project Output name
-PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
+PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME)
 
 # Document files
 DOCUMENTATION_OUTPUT = documentation/html

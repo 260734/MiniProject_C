@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <conio.h>
-
+#include <stdlib.h>
 char square[10] = { 'o', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
 
 int checkwin();
@@ -53,7 +52,7 @@ int main()
             printf("Invalid move ");
 
             player--;
-            getch();
+        //    getch();
         }
         i = checkwin();
 
@@ -67,7 +66,7 @@ int main()
     else
         printf("==>\aGame draw");
 
-    getch();
+    //getch();
 
     return 0;
 }

@@ -2,7 +2,6 @@
 #define __CALCULATOR_OPERATIONS_H__
 
 #include <stdio.h>
-#include <conio.h>
 #include <stdlib.h>
 
 /**

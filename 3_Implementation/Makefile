@@ -2,11 +2,10 @@
 PROJECT_NAME = Calculator
 
 # Output directory
-BUILD = build
+BUILD = Build
 
 # All source code files
-SRC = project_main.c\
-src/tictactoe.c
+SRC = project_main.c
 
 # All test source files
 TEST_SRC = src/tictactoe.c\

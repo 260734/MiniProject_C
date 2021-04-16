@@ -18,6 +18,12 @@
   
 * When :
   User can play anytime if he has computer.
+  
+* Where :
+  User can play in their system.
+  
+* How :
+  Player has to slect one of the symbol 'X' or 'O' and then then can play.
 
 # Detail Requirement
 * High Level Requirement

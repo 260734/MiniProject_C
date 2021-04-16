@@ -26,3 +26,17 @@ Credit :
 | Report | Report on the implemented C Miniproject |
 | Images&Videos | Files containing working video and images |
 | Other | Other supporting documents |
+
+
+# Contibutor List and Summary
+
+| SFID | Name | Features | Issues Raised | Issues Solved | No. of Test Cases | No. of Test case Passing |
+| --- | --- | --- | --- | --- | --- | --- |
+| 260734 | Sanskar Kumar | All | 1 | 0 | 6 | 6 |
+
+
+# Challenges faced and Overcome
+
+* Unable to run Make command
+  * At first i was unable to run make command in Linux and then i first installed the make file and then again i run the command and it worked.
+

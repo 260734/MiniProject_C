@@ -9,6 +9,11 @@
 # Cost and Features
 * Main features of this game are that it can be played by the user any number of times. After the end of each game user is asked if he want to play it again. This game is entirely free of cost as it has no special requirements such as server hosting etc. So this is a money friendly game. Easy to understand game interface and can be played by anyone.
 
+# Swat Analysis
+
+![sa](https://user-images.githubusercontent.com/80808341/115015014-af844700-9ed0-11eb-86e0-0fc745a10876.PNG)
+
+
 # Design
 
 ![Uml](https://user-images.githubusercontent.com/80808341/115009885-66c98f80-9eca-11eb-89fd-d06bb33b7378.png)

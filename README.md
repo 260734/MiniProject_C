@@ -32,7 +32,7 @@ Credit :
 
 | SFID | Name | Features | Issues Raised | Issues Solved | No. of Test Cases | No. of Test case Passing |
 | --- | --- | --- | --- | --- | --- | --- |
-| 260734 | Sanskar Kumar | All | 1 | 0 | 6 | 6 |
+| 260734 | Sanskar Kumar | All | 1 | 1 | 6 | 6 |
 
 
 # Challenges faced and Overcome

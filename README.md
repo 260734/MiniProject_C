@@ -10,6 +10,7 @@ Credit :
 | CI | [![CI](https://github.com/260734/MiniProject_C/actions/workflows/CI.yml/badge.svg)](https://github.com/260734/MiniProject_C/actions/workflows/CI.yml) |
 | CPP Check | [![Code Quality - Static Code - Cppcheck](https://github.com/260734/MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260734/MiniProject_C/actions/workflows/cppcheck.yml) |
 | Git Inspector | [![Contribution Check - Git Inspector](https://github.com/260734/MiniProject_C/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/260734/MiniProject_C/actions/workflows/git_inspector.yml) |
+| Code Quality | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b6a5ff39c8f4dc29853b5d207bb2e61)](https://www.codacy.com/gh/260734/MiniProject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=260734/MiniProject_C&amp;utm_campaign=Badge_Grade) |
 
 
 # Changes are made in the function of the program

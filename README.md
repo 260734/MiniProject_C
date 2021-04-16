@@ -6,6 +6,7 @@ Credit :
 
 | Badge | Status |
 | --- | --- |
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bab747220c3b4449acace59ff0ccad7a)](https://app.codacy.com/gh/260734/MiniProject_C?utm_source=github.com&utm_medium=referral&utm_content=260734/MiniProject_C&utm_campaign=Badge_Grade_Settings)
 | Build | [![Linux C/C++ Build CI](https://github.com/260734/MiniProject_C/actions/workflows/main.yml/badge.svg)](https://github.com/260734/MiniProject_C/actions/workflows/main.yml) |
 | CI | [![CI](https://github.com/260734/MiniProject_C/actions/workflows/CI.yml/badge.svg)](https://github.com/260734/MiniProject_C/actions/workflows/CI.yml) |
 | CPP Check | [![Code Quality - Static Code - Cppcheck](https://github.com/260734/MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260734/MiniProject_C/actions/workflows/cppcheck.yml) |

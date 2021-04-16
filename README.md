@@ -2,7 +2,7 @@
 
 A mini game using C language.
 
-Credit : 
+Credit : http://www.cprogrammingnotes.com/question/tic-tac-toe-game.html
 
 | Badge | Status |
 | --- | --- |

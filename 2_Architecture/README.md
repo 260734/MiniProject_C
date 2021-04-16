@@ -1,8 +1,5 @@
 # Architecture
 
-* Add UML Diagrams
-* For information about UML Diagrams refer: [UML Diagrams](https://www.uml-diagrams.org/uml-25-diagrams.html)
-## Tools 
-* [Draw.io](https://app.diagrams.net/)
-* [Creately](https://app.creately.com/diagram/create)
-* or any other free tools
+![Untitled Workspace](https://user-images.githubusercontent.com/80808341/115013117-4ac7ed00-9ece-11eb-9d4c-66cbee5a9466.png)
+
+

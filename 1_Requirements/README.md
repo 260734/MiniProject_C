@@ -9,4 +9,28 @@
 # Cost and Features
 * Main features of this game are that it can be played by the user any number of times. After the end of each game user is asked if he want to play it again. This game is entirely free of cost as it has no special requirements such as server hosting etc. So this is a money friendly game. Easy to understand game interface and can be played by anyone.
 
-# Design
+# 4W's and 1H's
+* Who :
+  This game can be played by any group of age.
+  
+* What :
+  This is simple tictactoe game made for playing.
+  
+* When :
+  User can play anytime if he has computer.
+
+# Detail Requirement
+* High Level Requirement
+
+| ID  | Description | Category | Status |
+| ------------- | ------------- | ------------ | ------------ |
+| HLR1  | User can play directly  | Technical | Implemented |
+| HLR2  | User can give input according to their own  | Technical | Implemented |
+
+
+* Low Level Requirements
+
+| ID  | Description | Status | 
+| ------------- | ------------- | ------------ | 
+| LLR1  | After each move turn should be changed  | Implemented | 
+| LLR2  | Input given by the user should be valid  | Implemented | 

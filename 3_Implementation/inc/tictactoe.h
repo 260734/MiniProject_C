@@ -1,41 +1,33 @@
-#ifndef __CALCULATOR_OPERATIONS_H__
-#define __CALCULATOR_OPERATIONS_H__
-
+/**
+ * @file tictactoe.h
+ * @author your name (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2021-04-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
 /**
-*  adds the operand1 and operand2 and returns the result
-* @param[in] operand1 
-* @param[in] operand2 
-* @return Result of operand1 + operand2
-*/
-int add(int operand1, int operand2);
+ * @brief 
+ * 
+ */
+char box[10]= { 'o', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
 
 /**
-*  subtracts the operand1, operand2 and returns the result
-* @param[in] operand1 
-* @param[in] operand2 
-* @return Result of operand1 - operand2
-*/
-int subtract(int operand1, int operand2);
+ * @brief 
+ * 
+ * @return int 
+ */
+int checkwin();
 
 /**
-*  multiply the operand1, operand2 and returns the result
-* @param[in] operand1 
-* @param[in] operand2 
-* @return Result of operand1 * operand2
-*/
-int multiply(int operand1, int operand2);
+ * @brief 
+ * 
+ */
+void board();
 
-
-/**
-* divides the operand1 by operand2 and returns the result 
-* @param[in] operand1 
-* @param[in] operand2 
-* @return integer value of the operand1 / operand2
-* @note returns 0 for divide by 0 error
-*/
-int divide(int operand1, int operand2);
-
-#endif  /* #define __CALCULATOR_OPERATIONS_H__ */
+#endif
